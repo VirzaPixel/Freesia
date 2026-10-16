@@ -1,0 +1,919 @@
+[
+ {
+  "folder": "01_Rose",
+  "name": "Mawar",
+  "en": "Rose",
+  "latin": "Rosa",
+  "fallback": "Rose"
+ },
+ {
+  "folder": "02_Jasmine",
+  "name": "Melati",
+  "en": "Jasmine",
+  "latin": "Jasminum",
+  "fallback": "Jasmine"
+ },
+ {
+  "folder": "03_Tulip",
+  "name": "Tulip",
+  "en": "Tulip",
+  "latin": "Tulipa",
+  "fallback": "Tulip"
+ },
+ {
+  "folder": "04_Sunflower",
+  "name": "Bunga Matahari",
+  "en": "Sunflower",
+  "latin": "Helianthus annuus",
+  "fallback": "Sunflower"
+ },
+ {
+  "folder": "05_Moth_Orchid",
+  "name": "Anggrek Bulan",
+  "en": "Moth Orchid",
+  "latin": "Phalaenopsis amabilis",
+  "fallback": "Moth Orchid"
+ },
+ {
+  "folder": "06_Chrysanthemum",
+  "name": "Krisan",
+  "en": "Chrysanthemum",
+  "latin": "Chrysanthemum",
+  "fallback": "Chrysanthemum"
+ },
+ {
+  "folder": "07_Lotus",
+  "name": "Seroja / Teratai",
+  "en": "Lotus",
+  "latin": "Nelumbo nucifera",
+  "fallback": "Lotus"
+ },
+ {
+  "folder": "08_Frangipani",
+  "name": "Kamboja",
+  "en": "Frangipani / Plumeria",
+  "latin": "Plumeria",
+  "fallback": "Frangipani"
+ },
+ {
+  "folder": "09_Hibiscus",
+  "name": "Kembang Sepatu",
+  "en": "Hibiscus",
+  "latin": "Hibiscus rosa-sinensis",
+  "fallback": "Hibiscus"
+ },
+ {
+  "folder": "100_Tree_Poppy",
+  "name": "Tree Poppy",
+  "en": "Tree Poppy / Matilija Poppy",
+  "latin": "Romneya coulteri",
+  "fallback": "Tree Poppy"
+ },
+ {
+  "folder": "101_Osteospermum",
+  "name": "Osteospermum",
+  "en": "Osteospermum (African Daisy)",
+  "latin": "Osteospermum",
+  "fallback": "Osteospermum"
+ },
+ {
+  "folder": "102_Pincushion_Flower",
+  "name": "Pincushion Flower",
+  "en": "Pincushion Flower",
+  "latin": "Scabiosa",
+  "fallback": "Pincushion Flower"
+ },
+ {
+  "folder": "103_Daffodil",
+  "name": "Narcissus",
+  "en": "Daffodil",
+  "latin": "Narcissus pseudonarcissus",
+  "fallback": "Daffodil"
+ },
+ {
+  "folder": "104_Trumpet_Creeper",
+  "name": "Trumpet Creeper",
+  "en": "Trumpet Creeper",
+  "latin": "Campsis radicans",
+  "fallback": "Trumpet Creeper"
+ },
+ {
+  "folder": "105_Sweet_Pea",
+  "name": "Bunga Manis",
+  "en": "Sweet Pea",
+  "latin": "Lathyrus odoratus",
+  "fallback": "Sweet Pea"
+ },
+ {
+  "folder": "106_Great_Masterwort",
+  "name": "Great Masterwort",
+  "en": "Great Masterwort",
+  "latin": "Astrantia major",
+  "fallback": "Great Masterwort"
+ },
+ {
+  "folder": "107_Giant_White_Arum_Lily",
+  "name": "Arum Putih Raksasa",
+  "en": "Giant White Arum Lily",
+  "latin": "Zantedeschia aethiopica",
+  "fallback": "Giant White Arum Lily"
+ },
+ {
+  "folder": "108_Anemone",
+  "name": "Anemone",
+  "en": "Anemone (incl. Japanese)",
+  "latin": "Anemone",
+  "fallback": "Anemone"
+ },
+ {
+  "folder": "109_Silverbush",
+  "name": "Silverbush",
+  "en": "Silverbush",
+  "latin": "Convolvulus cneorum",
+  "fallback": "Silverbush"
+ },
+ {
+  "folder": "10_Tuberose",
+  "name": "Sedap Malam",
+  "en": "Tuberose",
+  "latin": "Agave amica",
+  "fallback": "Tuberose"
+ },
+ {
+  "folder": "110_Cautleya_Spicata",
+  "name": "Cautleya",
+  "en": "Cautleya Spicata (Hard Ginger)",
+  "latin": "Cautleya spicata",
+  "fallback": "Cautleya Spicata"
+ },
+ {
+  "folder": "111_King_Protea",
+  "name": "Protea Raja",
+  "en": "King Protea",
+  "latin": "Protea cynaroides",
+  "fallback": "King Protea"
+ },
+ {
+  "folder": "112_Blanket_Flower",
+  "name": "Blanket Flower",
+  "en": "Blanket Flower",
+  "latin": "Gaillardia",
+  "fallback": "Blanket Flower"
+ },
+ {
+  "folder": "113_Balloon_Flower",
+  "name": "Bunga Balon",
+  "en": "Balloon Flower",
+  "latin": "Platycodon grandiflorus",
+  "fallback": "Balloon Flower"
+ },
+ {
+  "folder": "114_Thistle",
+  "name": "Thistle",
+  "en": "Thistle (Spear & Globe)",
+  "latin": "Cirsium / Echinops",
+  "fallback": "Thistle"
+ },
+ {
+  "folder": "115_Monkshood",
+  "name": "Wolfsbane",
+  "en": "Monkshood",
+  "latin": "Aconitum napellus",
+  "fallback": "Monkshood"
+ },
+ {
+  "folder": "116_Love_in_the_Mist",
+  "name": "Nigella",
+  "en": "Love-in-the-Mist",
+  "latin": "Nigella damascena",
+  "fallback": "Love In The Mist"
+ },
+ {
+  "folder": "117_Garden_Phlox",
+  "name": "Phlox",
+  "en": "Garden Phlox",
+  "latin": "Phlox paniculata",
+  "fallback": "Garden Phlox"
+ },
+ {
+  "folder": "118_Alpine_Sea_Holly",
+  "name": "Sea Holly",
+  "en": "Alpine Sea Holly",
+  "latin": "Eryngium alpinum",
+  "fallback": "Alpine Sea Holly"
+ },
+ {
+  "folder": "119_Spring_Crocus",
+  "name": "Krokus",
+  "en": "Spring Crocus",
+  "latin": "Crocus vernus",
+  "fallback": "Spring Crocus"
+ },
+ {
+  "folder": "11_Dahlia",
+  "name": "Dahlia",
+  "en": "Dahlia",
+  "latin": "Dahlia",
+  "fallback": "Dahlia"
+ },
+ {
+  "folder": "120_Red_Ginger",
+  "name": "Jahe Merah",
+  "en": "Red Ginger",
+  "latin": "Alpinia purpurata",
+  "fallback": "Red Ginger"
+ },
+ {
+  "folder": "121_Grape_Hyacinth",
+  "name": "Anggur Hidrangea",
+  "en": "Grape Hyacinth",
+  "latin": "Muscari",
+  "fallback": "Grape Hyacinth"
+ },
+ {
+  "folder": "122_Toad_Lily",
+  "name": "Toad Lily",
+  "en": "Toad Lily",
+  "latin": "Tricyrtis hirta",
+  "fallback": "Toad Lily"
+ },
+ {
+  "folder": "123_Siam_Tulip",
+  "name": "Tulip Siam",
+  "en": "Siam Tulip",
+  "latin": "Curcuma alismatifolia",
+  "fallback": "Siam Tulip"
+ },
+ {
+  "folder": "124_Globe_Flower",
+  "name": "Globe Flower",
+  "en": "Globe Flower",
+  "latin": "Trollius europaeus",
+  "fallback": "Globe Flower"
+ },
+ {
+  "folder": "125_Eustoma",
+  "name": "Eustoma / Lisianthus",
+  "en": "Eustoma (Bolera Deep Blue)",
+  "latin": "Eustoma grandiflorum",
+  "fallback": "Eustoma"
+ },
+ {
+  "folder": "126_Prince_of_Wales_Feathers",
+  "name": "Amaranthus Bulu",
+  "en": "Prince of Wales Feathers",
+  "latin": "Amaranthus tricolor",
+  "fallback": "Prince Of Wales Feathers"
+ },
+ {
+  "folder": "127_Pink_Primrose",
+  "name": "Primrose Pink",
+  "en": "Pink Primrose",
+  "latin": "Oenothera speciosa",
+  "fallback": "Pink Primrose"
+ },
+ {
+  "folder": "128_Moon_Orchid",
+  "name": "Anggrek Bulan",
+  "en": "Moon Orchid",
+  "latin": "Phalaenopsis amabilis",
+  "fallback": "Moon Orchid"
+ },
+ {
+  "folder": "129_Cosmos",
+  "name": "Cosmos",
+  "en": "Mexican Aster / Cosmos",
+  "latin": "Cosmos bipinnatus",
+  "fallback": "Cosmos"
+ },
+ {
+  "folder": "12_Lily",
+  "name": "Lili",
+  "en": "Lily",
+  "latin": "Lilium",
+  "fallback": "Lily"
+ },
+ {
+  "folder": "130_Corn_Poppy",
+  "name": "Poppy Merah",
+  "en": "Corn Poppy",
+  "latin": "Papaver rhoeas",
+  "fallback": "Corn Poppy"
+ },
+ {
+  "folder": "131_Snowdrop",
+  "name": "Bunga Salju",
+  "en": "Snowdrop",
+  "latin": "Galanthus nivalis",
+  "fallback": "Snowdrop"
+ },
+ {
+  "folder": "13_Daisy",
+  "name": "Daisy / Aster",
+  "en": "Daisy",
+  "latin": "Bellis perennis",
+  "fallback": "Daisy"
+ },
+ {
+  "folder": "14_Cherry_Blossom",
+  "name": "Sakura",
+  "en": "Cherry Blossom",
+  "latin": "Prunus serrulata",
+  "fallback": "Cherry Blossom"
+ },
+ {
+  "folder": "15_Hydrangea",
+  "name": "Hydrangea / Panca Warna",
+  "en": "Hydrangea",
+  "latin": "Hydrangea macrophylla",
+  "fallback": "Hydrangea"
+ },
+ {
+  "folder": "16_Marigold",
+  "name": "Kenikir / Marigold",
+  "en": "Marigold",
+  "latin": "Tagetes",
+  "fallback": "Marigold"
+ },
+ {
+  "folder": "17_Carnation",
+  "name": "Anyelir",
+  "en": "Carnation",
+  "latin": "Dianthus caryophyllus",
+  "fallback": "Carnation"
+ },
+ {
+  "folder": "18_Jungle_Flame",
+  "name": "Soka",
+  "en": "Jungle Flame",
+  "latin": "Ixora coccinea",
+  "fallback": "Jungle Flame"
+ },
+ {
+  "folder": "19_Bougainvillea",
+  "name": "Kertas / Bougainvillea",
+  "en": "Bougainvillea",
+  "latin": "Bougainvillea",
+  "fallback": "Bougainvillea"
+ },
+ {
+  "folder": "20_Lavender",
+  "name": "Lavender",
+  "en": "Lavender",
+  "latin": "Lavandula",
+  "fallback": "Lavender"
+ },
+ {
+  "folder": "21_Water_Hyacinth",
+  "name": "Eceng Gondok",
+  "en": "Water Hyacinth",
+  "latin": "Eichhornia crassipes",
+  "fallback": "Water Hyacinth"
+ },
+ {
+  "folder": "22_Zinnia",
+  "name": "Zinnia / Bunga Kertas",
+  "en": "Zinnia",
+  "latin": "Zinnia",
+  "fallback": "Zinnia"
+ },
+ {
+  "folder": "23_Peony",
+  "name": "Peony",
+  "en": "Peony",
+  "latin": "Paeonia",
+  "fallback": "Peony"
+ },
+ {
+  "folder": "24_Iris",
+  "name": "Iris",
+  "en": "Iris",
+  "latin": "Iris germanica",
+  "fallback": "Iris"
+ },
+ {
+  "folder": "25_Daffodil",
+  "name": "Bunga Bakung",
+  "en": "Daffodil",
+  "latin": "Narcissus",
+  "fallback": "Daffodil"
+ },
+ {
+  "folder": "26_Snapdragon",
+  "name": "Snapdragon",
+  "en": "Snapdragon",
+  "latin": "Antirrhinum majus",
+  "fallback": "Snapdragon"
+ },
+ {
+  "folder": "27_Gerbera_Daisy",
+  "name": "Gerbera",
+  "en": "Gerbera Daisy",
+  "latin": "Gerbera jamesonii",
+  "fallback": "Gerbera Daisy"
+ },
+ {
+  "folder": "28_Violet",
+  "name": "Violet",
+  "en": "Violet",
+  "latin": "Viola",
+  "fallback": "Violet"
+ },
+ {
+  "folder": "29_Amaranth",
+  "name": "Amarantis",
+  "en": "Amaranth",
+  "latin": "Amaranthus",
+  "fallback": "Amaranth"
+ },
+ {
+  "folder": "30_Angels_Trumpet",
+  "name": "Bunga Terompet",
+  "en": "Angel's Trumpet",
+  "latin": "Brugmansia",
+  "fallback": "Angels Trumpet"
+ },
+ {
+  "folder": "31_Bird_of_Paradise",
+  "name": "Bunga Cenderawasih",
+  "en": "Bird of Paradise",
+  "latin": "Strelitzia reginae",
+  "fallback": "Bird Of Paradise"
+ },
+ {
+  "folder": "32_Passion_Flower",
+  "name": "Passion Flower",
+  "en": "Passion Flower",
+  "latin": "Passiflora caerulea",
+  "fallback": "Passion Flower"
+ },
+ {
+  "folder": "33_Flamingo_Flower",
+  "name": "Anthurium / Bunga Tunjuk Langit",
+  "en": "Flamingo Flower",
+  "latin": "Anthurium andraeanum",
+  "fallback": "Flamingo Flower"
+ },
+ {
+  "folder": "34_Lobster_Claw",
+  "name": "Helikonia / Pisang-pisangan",
+  "en": "Lobster Claw",
+  "latin": "Heliconia",
+  "fallback": "Lobster Claw"
+ },
+ {
+  "folder": "35_King_Protea",
+  "name": "Protea King",
+  "en": "King Protea",
+  "latin": "Protea cynaroides",
+  "fallback": "King Protea"
+ },
+ {
+  "folder": "36_Bleeding_Heart",
+  "name": "Hati Berdarah",
+  "en": "Bleeding Heart",
+  "latin": "Lamprocapnos spectabilis",
+  "fallback": "Bleeding Heart"
+ },
+ {
+  "folder": "37_Queen_of_the_Night",
+  "name": "Wijayakusuma",
+  "en": "Queen of the Night",
+  "latin": "Epiphyllum oxypetalum",
+  "fallback": "Queen Of The Night"
+ },
+ {
+  "folder": "38_Flying_Duck_Orchid",
+  "name": "Anggrek Bebek Terbang",
+  "en": "Flying Duck Orchid",
+  "latin": "Caleana major",
+  "fallback": "Flying Duck Orchid"
+ },
+ {
+  "folder": "39_Black_Bat_Flower",
+  "name": "Bunga Kelelawar Hitam",
+  "en": "Black Bat Flower",
+  "latin": "Tacca chantrieri",
+  "fallback": "Black Bat Flower"
+ },
+ {
+  "folder": "40_Himalayan_Blue_Poppy",
+  "name": "Poppy Biru Himalaya",
+  "en": "Himalayan Blue Poppy",
+  "latin": "Meconopsis betonicifolia",
+  "fallback": "Himalayan Blue Poppy"
+ },
+ {
+  "folder": "41_Hookers_Lips",
+  "name": "Bunga Mulut Cewek",
+  "en": "Hooker's Lips",
+  "latin": "Palicourea elata",
+  "fallback": "Hookers Lips"
+ },
+ {
+  "folder": "42_Monkey_Face_Orchid",
+  "name": "Anggrek Muka Monyet",
+  "en": "Monkey Face Orchid",
+  "latin": "Dracula simia",
+  "fallback": "Monkey Face Orchid"
+ },
+ {
+  "folder": "43_Fuchsia",
+  "name": "Fuchsia / Bunga Kebaya",
+  "en": "Fuchsia",
+  "latin": "Fuchsia",
+  "fallback": "Fuchsia"
+ },
+ {
+  "folder": "44_Rafflesia",
+  "name": "Padma Raksasa",
+  "en": "Rafflesia",
+  "latin": "Rafflesia arnoldii",
+  "fallback": "Rafflesia"
+ },
+ {
+  "folder": "45_Titan_Arum",
+  "name": "Bunga Bangkai",
+  "en": "Titan Arum",
+  "latin": "Amorphophallus titanum",
+  "fallback": "Titan Arum"
+ },
+ {
+  "folder": "46_Ghost_Orchid",
+  "name": "Anggrek Hantu",
+  "en": "Ghost Orchid",
+  "latin": "Dendrophylax lindenii",
+  "fallback": "Ghost Orchid"
+ },
+ {
+  "folder": "47_Black_Orchid",
+  "name": "Anggrek Hitam Papua",
+  "en": "Black Orchid",
+  "latin": "Coelogyne pandurata",
+  "fallback": "Black Orchid"
+ },
+ {
+  "folder": "48_Jade_Vine",
+  "name": "Bunga Giok",
+  "en": "Jade Vine",
+  "latin": "Strongylodon macrobotrys",
+  "fallback": "Jade Vine"
+ },
+ {
+  "folder": "49_Middlemist_Camellia",
+  "name": "Middlemist Red",
+  "en": "Middlemist Camellia",
+  "latin": "Camellia japonica 'Middlemist Red'",
+  "fallback": "Middlemist Camellia"
+ },
+ {
+  "folder": "50_Kadupul_Flower",
+  "name": "Kadupul",
+  "en": "Kadupul Flower",
+  "latin": "Epiphyllum oxypetalum",
+  "fallback": "Kadupul Flower"
+ },
+ {
+  "folder": "51_Chocolate_Cosmos",
+  "name": "Cosmos Cokelat",
+  "en": "Chocolate Cosmos",
+  "latin": "Cosmos atrosanguineus",
+  "fallback": "Chocolate Cosmos"
+ },
+ {
+  "folder": "52_Parrots_Beak",
+  "name": "Parrot's Beak",
+  "en": "Parrots Beak",
+  "latin": "Lotus berthelotii",
+  "fallback": "Parrots Beak"
+ },
+ {
+  "folder": "53_Ladys_Slipper_Orchid",
+  "name": "Anggrek Kantung Semar",
+  "en": "Lady's Slipper Orchid",
+  "latin": "Cypripedium",
+  "fallback": "Ladys Slipper Orchid"
+ },
+ {
+  "folder": "54_Orchid_Other",
+  "name": "Anggrek Lainnya",
+  "en": "Orchid (Other)",
+  "latin": "Orchidaceae (mixed)",
+  "fallback": "Orchid Other"
+ },
+ {
+  "folder": "55_Bellflower",
+  "name": "Lonceng Belanda",
+  "en": "Bellflower",
+  "latin": "Campanula",
+  "fallback": "Bellflower"
+ },
+ {
+  "folder": "56_Water_Lily",
+  "name": "Teratai",
+  "en": "Water Lily",
+  "latin": "Nymphaea",
+  "fallback": "Water Lily"
+ },
+ {
+  "folder": "57_Dandelion",
+  "name": "Dandelion",
+  "en": "Dandelion",
+  "latin": "Taraxacum officinale",
+  "fallback": "Dandelion"
+ },
+ {
+  "folder": "58_Californian_Poppy",
+  "name": "Poppy California",
+  "en": "Californian Poppy",
+  "latin": "Eschscholzia californica",
+  "fallback": "Californian Poppy"
+ },
+ {
+  "folder": "59_Coreopsis",
+  "name": "Coreopsis",
+  "en": "Coreopsis",
+  "latin": "Coreopsis",
+  "fallback": "Coreopsis"
+ },
+ {
+  "folder": "60_Astilbe",
+  "name": "Astilbe",
+  "en": "Astilbe",
+  "latin": "Astilbe",
+  "fallback": "Astilbe"
+ },
+ {
+  "folder": "61_Petunia",
+  "name": "Petunia",
+  "en": "Petunia",
+  "latin": "Petunia",
+  "fallback": "Petunia"
+ },
+ {
+  "folder": "62_Wallflower",
+  "name": "Wallflower",
+  "en": "Wallflower",
+  "latin": "Erysimum cheiri",
+  "fallback": "Wallflower"
+ },
+ {
+  "folder": "63_Nasturtium",
+  "name": "Nasturtium",
+  "en": "Nasturtium",
+  "latin": "Tropaeolum majus",
+  "fallback": "Nasturtium"
+ },
+ {
+  "folder": "64_Foxglove",
+  "name": "Bunga Sarung Tangan",
+  "en": "Foxglove",
+  "latin": "Digitalis purpurea",
+  "fallback": "Foxglove"
+ },
+ {
+  "folder": "65_Cyclamen",
+  "name": "Cyclamen",
+  "en": "Cyclamen",
+  "latin": "Cyclamen persicum",
+  "fallback": "Cyclamen"
+ },
+ {
+  "folder": "66_Geranium",
+  "name": "Geranium",
+  "en": "Geranium",
+  "latin": "Geranium",
+  "fallback": "Geranium"
+ },
+ {
+  "folder": "67_Clematis",
+  "name": "Clematis",
+  "en": "Clematis",
+  "latin": "Clematis",
+  "fallback": "Clematis"
+ },
+ {
+  "folder": "68_Morning_Glory",
+  "name": "Morning Glory",
+  "en": "Morning Glory",
+  "latin": "Ipomoea",
+  "fallback": "Morning Glory"
+ },
+ {
+  "folder": "69_Sword_Lily",
+  "name": "Gladiol",
+  "en": "Sword Lily / Gladiolus",
+  "latin": "Gladiolus",
+  "fallback": "Sword Lily"
+ },
+ {
+  "folder": "70_KathGolap",
+  "name": "Tapak Dara / KathGolap",
+  "en": "KathGolap (Madagascar Periwinkle)",
+  "latin": "Catharanthus roseus",
+  "fallback": "Kathgolap"
+ },
+ {
+  "folder": "71_Datura",
+  "name": "Kecubung",
+  "en": "Thorn Apple / Datura",
+  "latin": "Datura",
+  "fallback": "Datura"
+ },
+ {
+  "folder": "72_Nerine",
+  "name": "Nerine",
+  "en": "Nerine (Cape Flower)",
+  "latin": "Nerine bowdenii",
+  "fallback": "Nerine"
+ },
+ {
+  "folder": "73_Black_Eyed_Susan",
+  "name": "Susan Mata Hitam",
+  "en": "Black-Eyed Susan",
+  "latin": "Rudbeckia hirta",
+  "fallback": "Black Eyed Susan"
+ },
+ {
+  "folder": "74_Azalea",
+  "name": "Azalea",
+  "en": "Azalea",
+  "latin": "Rhododendron (Azalea)",
+  "fallback": "Azalea"
+ },
+ {
+  "folder": "75_Primula",
+  "name": "Primula",
+  "en": "Primula / Primrose",
+  "latin": "Primula",
+  "fallback": "Primula"
+ },
+ {
+  "folder": "76_Poinsettia",
+  "name": "Poinsettia",
+  "en": "Poinsettia",
+  "latin": "Euphorbia pulcherrima",
+  "fallback": "Poinsettia"
+ },
+ {
+  "folder": "77_Fritillaria",
+  "name": "Fritillaria",
+  "en": "Fritillary",
+  "latin": "Fritillaria",
+  "fallback": "Fritillaria"
+ },
+ {
+  "folder": "78_Camellia",
+  "name": "Camelia",
+  "en": "Camellia",
+  "latin": "Camellia japonica",
+  "fallback": "Camellia"
+ },
+ {
+  "folder": "79_Snapdragon",
+  "name": "Mulut Naga",
+  "en": "Snapdragon",
+  "latin": "Antirrhinum majus",
+  "fallback": "Snapdragon"
+ },
+ {
+  "folder": "80_Colts_Foot",
+  "name": "Colts Foot",
+  "en": "Colts Foot",
+  "latin": "Tussilago farfara",
+  "fallback": "Colts Foot"
+ },
+ {
+  "folder": "81_Columbine",
+  "name": "Aquilegia",
+  "en": "Columbine",
+  "latin": "Aquilegia",
+  "fallback": "Columbine"
+ },
+ {
+  "folder": "82_Purple_Coneflower",
+  "name": "Coneflower Ungu",
+  "en": "Purple Coneflower",
+  "latin": "Echinacea purpurea",
+  "fallback": "Purple Coneflower"
+ },
+ {
+  "folder": "83_Pansy",
+  "name": "Pansy",
+  "en": "Pansy",
+  "latin": "Viola × wittrockiana",
+  "fallback": "Pansy"
+ },
+ {
+  "folder": "84_Bird_of_Paradise",
+  "name": "Bunga Paradies",
+  "en": "Bird of Paradise",
+  "latin": "Strelitzia reginae",
+  "fallback": "Bird Of Paradise"
+ },
+ {
+  "folder": "85_Peruvian_Lily",
+  "name": "Alstroemeria",
+  "en": "Peruvian Lily",
+  "latin": "Alstroemeria",
+  "fallback": "Peruvian Lily"
+ },
+ {
+  "folder": "86_Mexican_Petunia",
+  "name": "Ruellia Meksiko",
+  "en": "Mexican Petunia",
+  "latin": "Ruellia simplex",
+  "fallback": "Mexican Petunia"
+ },
+ {
+  "folder": "87_Canna_Lily",
+  "name": "Bunga Canna",
+  "en": "Canna Lily",
+  "latin": "Canna",
+  "fallback": "Canna Lily"
+ },
+ {
+  "folder": "88_Gazania",
+  "name": "Gazania",
+  "en": "Gazania",
+  "latin": "Gazania rigens",
+  "fallback": "Gazania"
+ },
+ {
+  "folder": "89_Artichoke",
+  "name": "Artichoke",
+  "en": "Artichoke (flower head)",
+  "latin": "Cynara cardunculus",
+  "fallback": "Artichoke"
+ },
+ {
+  "folder": "90_Belladonna_Lily",
+  "name": "Amarilis",
+  "en": "Belladonna Lily",
+  "latin": "Amaryllis belladonna",
+  "fallback": "Belladonna Lily"
+ },
+ {
+  "folder": "91_Buttercup",
+  "name": "Renek Ungu",
+  "en": "Buttercup",
+  "latin": "Ranunculus",
+  "fallback": "Buttercup"
+ },
+ {
+  "folder": "92_Mallow",
+  "name": "Malva",
+  "en": "Mallow (incl. Tree Mallow)",
+  "latin": "Malva / Malva arborea",
+  "fallback": "Mallow"
+ },
+ {
+  "folder": "93_Lenten_Rose",
+  "name": "Hellebore",
+  "en": "Lenten Rose",
+  "latin": "Helleborus orientalis",
+  "fallback": "Lenten Rose"
+ },
+ {
+  "folder": "94_Gaura",
+  "name": "Gaura",
+  "en": "Gaura",
+  "latin": "Oenothera lindheimeri",
+  "fallback": "Gaura"
+ },
+ {
+  "folder": "95_Stemless_Gentian",
+  "name": "Gentian Tanpa Batang",
+  "en": "Stemless Gentian",
+  "latin": "Gentiana acaulis",
+  "fallback": "Stemless Gentian"
+ },
+ {
+  "folder": "96_Bee_Balm",
+  "name": "Bee Balm",
+  "en": "Bee Balm",
+  "latin": "Monarda",
+  "fallback": "Bee Balm"
+ },
+ {
+  "folder": "97_Magnolia",
+  "name": "Magnolia",
+  "en": "Magnolia",
+  "latin": "Magnolia",
+  "fallback": "Magnolia"
+ },
+ {
+  "folder": "98_Desert_Rose",
+  "name": "Kamboja Jepang",
+  "en": "Desert Rose",
+  "latin": "Adenium obesum",
+  "fallback": "Desert Rose"
+ },
+ {
+  "folder": "99_Bromeliad",
+  "name": "Bromelia",
+  "en": "Bromeliad (incl. Pink Quill)",
+  "latin": "Bromeliaceae",
+  "fallback": "Bromeliad"
+ }
+]
